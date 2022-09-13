@@ -1,0 +1,27 @@
+.ContenedorError{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.Error404{
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 125px;
+    margin: 5px;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+}
+.titleError{
+    font-size: 4rem;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+.bodyError{
+    font-style: italic;
+    font-size: 1.5rem;
+    font-weight: 410;
+}
